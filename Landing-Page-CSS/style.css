@@ -1,0 +1,244 @@
+body{
+  margin:0;
+  font-family: Roboto,arial;
+  background-color:rgb(240, 240, 240); ;
+}
+.first-part{
+  width: 1900px;
+  height: 550px;
+  position: relative;
+  background-color: rgb(0, 0, 0);
+  padding-left: 30px;  
+  display: flex;
+  flex-direction: column;
+  
+}
+.headerlogo-flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shahd-logo{
+width: 100px;
+margin-top:0px;
+margin-left:-40px;
+margin-bottom: -10px;
+border-radius: 40px;
+padding-top:20px;
+padding-bottom:20px;
+cursor:pointer;
+
+}
+.buttons{
+margin-top:50px;
+margin-left:1300px;
+
+}
+.home-button{
+ padding-top:8px;
+ padding-bottom:8px;
+ padding-left:9px;
+ padding-right:9px;
+ background-color: rgb(255, 0, 0);
+ color:white;
+ cursor:pointer;
+ margin-left:2px;
+ border-radius: 20px;
+ padding-left:15px;
+ padding-right:15px;
+ font-weight: bold;
+}
+.home-button:hover {
+  background-color:rgb(186, 53, 53);
+}
+.forum-button{
+  padding-top:8px;
+ padding-bottom:8px;
+ padding-left:9px;
+ padding-right:9px;
+ background-color: rgb(255, 0, 0);
+ color:white;
+ cursor:pointer;
+ margin-left:2px;
+ border-radius: 20px;
+ padding-left:15px;
+ padding-right:15px;
+ font-weight: bold;
+}
+.forum-button:hover{
+  background-color:rgb(186, 53, 53);
+}
+.about-button{
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-left:9px;
+  padding-right:9px;
+  background-color: rgb(255, 0, 0);
+  color:white;
+  cursor:pointer;
+  margin-left:2px;
+  border-radius: 20px;
+  padding-left:15px;
+  padding-right:15px;
+  font-weight: bold;
+}
+.about-button:hover{
+  background-color:rgb(186, 53, 53);
+}
+.container-para{
+  margin-top:100px
+}
+.web-awesome{
+  color:white;
+  font-size:40px;
+  margin-left:30px;
+  
+
+}
+.shahd-subpara{
+  color:gray;
+  margin-left:21px;
+  margin-top:20px;
+  font-size:20px;
+
+}
+.button-signup{
+  /*background-color:rgb(4, 4, 245);*/
+  background-color: rgb(255, 0, 0);
+  color:white;
+  width: 100px;
+  margin-left: 110px;
+  margin-top:40px;
+  border-radius: 6px;
+  font-weight: bolder;
+  padding-top:10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  border:none;
+  transition:background-color 0.20s;
+}
+.button-signup:hover{
+  background-color:rgb(186, 53, 53);
+  
+}
+.quote-image{
+  width: 400px;
+  margin-left:1100px;
+  margin-top:-300px;
+}
+.car-icon{
+  width: 100px;
+  margin-left:900px;
+  margin-top:-250px
+}
+.car-icon2{
+  width: 100px;
+  margin-left:1590px;
+  margin-top:-60px;
+  margin-right:10px
+}
+
+/* END OF FIRST PART STYLES */
+
+.banda{
+  background-color: rgb(255, 0, 0);
+  height: 10px;
+}
+.car-collection
+{
+  margin-left: 800px;
+  color:red;
+}
+#collections{
+  color:black;
+}
+
+.supra-flex{
+  display: flex;
+  margin-top:-80px;
+  margin-left:5px ;
+  background-color:rgb(240, 240, 240);
+
+}
+.black-supra{
+  height: 300px;
+}
+.gold-supra{
+ margin-top:50px;
+ padding-top:10px;
+height: 400px;
+width: 800px;
+}
+.red-supra{
+padding-top:10px;
+height: 400px;
+}
+.third-part{
+  
+}
+.banda2{
+  background-color: rgb(255, 0, 0);
+  height: 2px;
+  margin-bottom: 0;
+}
+.quote-background{
+  background-color:rgb(240, 240, 240);
+  margin-top:0px;
+  height: 150px;
+  padding-left:600px;
+  padding-top:100px;
+}
+#senna{
+  margin-top:-135px;
+  margin-left:1120px;
+  font-weight: bolder;
+  font-size:17px
+}
+.banda3{
+  background-color: rgb(255, 0, 0);
+  height: 12px;
+  margin-top:99px; 
+}
+.signup-banna{
+margin-left:600px;
+margin-top:100px;
+background-color:rgb(4, 4, 245);
+}
+.action-para{
+font-weight: bold;
+color: white;
+}
+.signup-para{
+color:gray;
+}
+.button-signup2{
+  background-color:rgb(4, 4, 245);
+  color:white;
+  width: 100px;
+  border-radius: 6px;
+  font-weight: bold;
+  padding-top:10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  border:white solid 2px;
+  transition:background-color 0.20s;
+
+}
+.button-signup2:hover{
+  background-color:rgb(34, 34, 216);
+  
+}
+
+/* END OF FOURTH PART */
+
+.fifth-part{
+
+}
+.banda4{
+  background-color: rgb(0, 0, 0);
+  color:white;
+  height: 40px;
+  margin-top:99px;
+  padding-top:20px;
+  padding-left:800px
+}
